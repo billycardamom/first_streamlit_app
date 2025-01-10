@@ -1,0 +1,9 @@
+{
+	"name": "childrensDataFactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "628cb80d-8980-4bcc-a9a2-da3b5dbac2fd",
+		"tenantId": "098d9be3-cdd4-4f19-b3fe-06ab651e9032"
+	}
+}
